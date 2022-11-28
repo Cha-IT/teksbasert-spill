@@ -1,4 +1,4 @@
-# tekstbasert-spill
+# Tekstbasert spill
 
 I IT2 skal vi lage et tekstbasert spill. Dette som et parprosjekt.
 
