@@ -20,9 +20,13 @@ I tillegg til spillet skal hver person levere en individuell logg. Dette er en A
 
 
 ## Innleveringer:
-
+ 
+### Torsdag 1. desember: 
 - En overordnet skisse over hvordan spillet skal være, med et grovt flytskjema for spill logikk og oppbygning.
 
-Spillet og logger leveres torsdag 15.desember.
+### Torsdag 15. desember:
+
+- Levering av ferdig spill og logger
+- Spill leveres på Github, og logger leveres på Canvas (dokument)
 
 **Karakterer vil være individuelle.**
